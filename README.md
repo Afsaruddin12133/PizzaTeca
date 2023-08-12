@@ -1,11 +1,11 @@
 # Getting Started with Create React App
 Live website link : https://graceful-figolla-f354d0.netlify.app/
 
-1. About PizzaTeca
-We are World wide company.
-Our PizzTeca is too much easy.
-We have already 5 million user.
-Our service is awsome.
+# About PizzaTeca
+1. We are World wide company.<br/>
+2. Our PizzTeca is too much easy.<br/>
+3. We have already 5 million user.<br/>
+4. Our service is awsome.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
