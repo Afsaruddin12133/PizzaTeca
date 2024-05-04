@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Live website link : https://graceful-figolla-f354d0.netlify.app/
+Live website link : https://pizzateca.netlify.app/
 
 # About PizzaTeca
 1. We are World wide company.<br/>
