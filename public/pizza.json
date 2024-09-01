@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Neapolitan Pizza",
+    "price":799,
+    "img":"https://images.pexels.com/photos/10790638/pexels-photo-10790638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+{
+    "id": 2,
+    "name": "Chicago Pizza",
+    "price":899,
+    "img":"https://images.pexels.com/photos/11509773/pexels-photo-11509773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+{
+    "id": 3,
+    "name": "California Pizza",
+    "price":999,
+    "img":"https://images.pexels.com/photos/2260201/pexels-photo-2260201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+{
+    "id": 4,
+    "name": "Neapolitan Pizza",
+    "price":1000,
+    "img":"https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+{
+    "id": 5,
+    "name": "St. Louis Pizza",
+    "price":699,
+    "img":"https://images.pexels.com/photos/10790638/pexels-photo-10790638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+{
+    "id": 6,
+    "name": "Detroit Pizza",
+    "price":1500,
+    "img":"https://images.pexels.com/photos/2741457/pexels-photo-2741457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+{
+    "id": 7,
+    "name": "Greek Pizza",
+    "price":499,
+    "img":"https://images.pexels.com/photos/10790638/pexels-photo-10790638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+{
+    "id": 8,
+    "name": "parish Pizza",
+    "price":1699,
+    "img":"https://images.pexels.com/photos/2714722/pexels-photo-2714722.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+ {
+    "id": 9,
+    "name": "British Pizza",
+    "price":1899,
+    "img":"https://images.pexels.com/photos/10790638/pexels-photo-10790638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
